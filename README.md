@@ -36,4 +36,6 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
- <h3>[Basic Page](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![demo](https://github.com/codesari/basic-page/blob/main/basic-page.gif)
+ <h3>![BasicPage](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![demo]([https://github.com/codesari/basic-page/blob/main/basic-page.gif](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif))
+ 
+
