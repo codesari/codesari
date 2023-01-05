@@ -33,10 +33,10 @@
 <h2 align="center"> My projects</h2>
 
 ###
-
-  Project Demo       |Libraries and Technologies I use     |Project Preview   
+ 
+   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
- <h3>![BasicPage](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![demo]([https://github.com/codesari/basic-page/blob/main/basic-page.gif](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif))
+ <h3>[Repo](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![schiphol](https://github.com/codesari/basic-page/blob/main/basic-page.gif](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)
  
 
  
