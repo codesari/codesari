@@ -24,3 +24,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesari&show_icons=true&locale=en" alt="codesari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesari&theme=dark" alt="codesari" /></p>
+
+
+
+
+
+
+<h2 align="center"> My projects</h2>
+
+###
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+ <h3>[Basic Page](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![demo](https://github.com/codesari/basic-page/blob/main/basic-page.gif)
