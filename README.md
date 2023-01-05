@@ -38,8 +38,6 @@
 :-------------------------|-------------------------|-------------------------
  <h3>![BasicPage](https://github.com/codesari/basic-page)</h3> | Basic HTML elements |![demo]([https://github.com/codesari/basic-page/blob/main/basic-page.gif](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif))
  
-   Project Demo       |Libraries and Technologies I use     |Project Preview   
-:-------------------------|-------------------------|-------------------------
-<h3>[Repo](https://github.com/AliAksoyy/React-BlogApp)</h3> | ReactJS, Material UI, React Toastify, Bootstrap, REACT / Components , Props , Hooks , Router, Redux, Formik-Yup, Firebase Realtime Database, Firebase Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/React-BlogApp/main/public/gif/maker.gif)
+
  
 
