@@ -40,6 +40,6 @@
  
    Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Blog App](https://react-blog-app-rho.vercel.app/) <h3>[Repo](https://github.com/AliAksoyy/React-BlogApp)</h3> | ReactJS, Material UI, React Toastify, Bootstrap, REACT / Components , Props , Hooks , Router, Redux, Formik-Yup, Firebase Realtime Database, Firebase Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/React-BlogApp/main/public/gif/maker.gif)
+<h3>[Repo](https://github.com/AliAksoyy/React-BlogApp)</h3> | ReactJS, Material UI, React Toastify, Bootstrap, REACT / Components , Props , Hooks , Router, Redux, Formik-Yup, Firebase Realtime Database, Firebase Authentication |![schiphol](https://raw.githubusercontent.com/AliAksoyy/React-BlogApp/main/public/gif/maker.gif)
  
 
