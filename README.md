@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=codesarii&label=Profile%20views&color=00b30c&style=flat-square" alt="codesari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codesari" alt="codesari" /></a> </p>
 
-- 🔭 I’m currently working on **React**
 
-- 🌱 I’m currently learning **more about Web Development.**
 
-- 📫 How to reach me **ahmtsr81@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,19 +17,14 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codesari&show_icons=true&locale=en&layout=compact" alt="codesari" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codesari&show_icons=true&locale=en" alt="codesari" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codesari&theme=dark" alt="codesari" /></p>
 
 
 
-
-
-
-<h2 align="center"> My projects</h2>
 
 ###
- 
+
+<h2 align="center"> HTML & CSS Projects </h2>
+
    Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Repo](https://github.com/codesari/basic-page) | Basic HTML elements |![schiphol](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)
