@@ -28,7 +28,7 @@ tablecell{
 
    Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Repo](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<tablecell>![schiphol](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)</tablecell>
+[Repo](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<tablecell>![sasdd](https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)</tablecell>
 [Repo](https://github.com/codesari/netflix-survey-clone) | Basic HTML & CSS elements |![schiphol](https://raw.githubusercontent.com/codesari/netflix-survey-clone/main/netflix.gif)
  
 
