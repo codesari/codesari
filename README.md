@@ -25,7 +25,7 @@
 
 <h2 align="center"> HTML & CSS Projects </h2>
 
-   Project Demo       |Libraries and Technologies I use     |Project Preview   
+   Project Repos       |Used In The Project     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Repo](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif" width="400" />
 [Repo](https://github.com/codesari/netflix-survey-clone) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/netflix-survey-clone/main/netflix.gif" width="400" />
