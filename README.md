@@ -27,7 +27,7 @@
 
    Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Repo](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)" width="50" height="50"/>
+[Repo](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif)" width="350" height="200"/>
 [Repo](https://github.com/codesari/netflix-survey-clone) | Basic HTML & CSS elements |![](https://raw.githubusercontent.com/codesari/netflix-survey-clone/main/netflix.gif)
  
 
