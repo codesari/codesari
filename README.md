@@ -28,9 +28,11 @@
    Project Repos       |Used In The Project     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Basic Page](https://github.com/codesari/basic-page) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/basic-page/a97fed4f988e3a704dfccfffb1f921da2176cf80/basic-page.gif" width="400" />
-[Netflix Survey Clone](https://github.com/codesari/netflix-survey-clone) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/netflix-survey-clone/main/netflix.gif" width="400" />
+[Netflix Survey Clone](https://github.com/codesari/netflix-survey-clone) |<ul><li>HTML Forms-Input Types</li><li>HTML Form Elements</li><li>CSS Colors-Border Properties</li><li>CSS Margins-Padding</li><li>CSS Properties for Texts-Font Families-Links</li></ul>|<img src="https://raw.githubusercontent.com/codesari/netflix-survey-clone/main/netflix.gif" width="400" />
 [Google Landing Page](https://github.com/codesari/google-landing-page) | Basic HTML & CSS elements |<img src="https://raw.githubusercontent.com/codesari/google-landing-page/main/glp.gif" width="400" />
 [Parallax Web Site](https://github.com/codesari/parallax-website) |<ul><li>List Properties</li><li>Overflow Property-The float Property-Opacity / Transparency-Units in CSS</li><li>CSS Setting height and width-CSS Outline-CSS Combinators</li></ul>|<img src="https://github.com/codesari/parallax-website/raw/main/parallax.gif" width="400" />
+
+
 
 
 
