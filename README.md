@@ -1,3 +1,10 @@
+<h2 align="center"> Javascript Projects </h2>
+
+
+Project Repos       |Used In The Project     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Checkout App](https://github.com/codesari/checkout-app) |<ul><li>JS DOM</li><li>JS Events</li></ul>|<img src="https://raw.githubusercontent.com/codesari/checkout-app/main/checkout-app.gif" width="300" />
+
 
 <h2 align="center"> HTML & CSS Projects </h2>
 
