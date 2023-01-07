@@ -2,7 +2,7 @@
 
 | Project Repos | Used In The Project | Project Preview |  
 |---|---|---|
-|[Wheather App](https://github.com/codesari/wheather-app) | <ul><li>API</li><li>Axios</li><li>JS DOM & Events</li></ul>|<img src="https://github.com/codesari/wheather-app/raw/main/img/wheather-app.gif" width="300" />|
+|[Wheather App](https://github.com/codesari/wheather-app) | <ul><li>API</li><li>Axios</li><li>Responsive</li><li>JS DOM & Events</li></ul>|<img src="https://github.com/codesari/wheather-app/raw/main/img/wheather-app.gif" width="300" />|
 |[To-Do App](https://github.com/codesari/To-Do-App) | <ul><li>JS DOM</li><li>JS Events</li></ul>|<img src="https://raw.githubusercontent.com/codesari/To-Do-App/main/todo-app.gif" width="300" />|
 [Checkout App](https://github.com/codesari/checkout-app) |<ul><li>JS DOM</li><li>JS Events</li></ul>|<img src="https://raw.githubusercontent.com/codesari/checkout-app/main/checkout-app.gif" width="300" />
 
