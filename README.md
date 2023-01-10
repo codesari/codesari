@@ -1,3 +1,9 @@
+<h2 align="center"> React Projects </h2>
+
+| Project Repos | Used In The Project | Project Preview |  
+|---|---|---|
+[Image Cards](https://github.com/codesari/image-cards-react)<br> [@LIVE](https://codesari.github.io/image-cards-react/) |<ul><li>React Components</li></ul>|<img src="https://github.com/codesari/image-cards-react/raw/main/Animation.gif" width="300" />
+
 <h2 align="center"> Javascript Projects </h2>
 
 | Project Repos | Used In The Project | Project Preview |  
