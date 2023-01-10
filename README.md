@@ -2,7 +2,19 @@
 
 | Project Repos | Used In The Project | Project Preview |  
 |---|---|---|
+[Random User Generator](https://github.com/codesari/random-user-generator)<br> [@LIVE](https://codesari.github.io/basic-random-user-generator-react/) |<ul><li>Axios</li><li>Random API</li><li>React DOM</li><li>React Bootstrap</li><li>React Icons</li></ul>|<img src="https://raw.githubusercontent.com/codesari/random-user-generator/main/rug.gif" width="300" />
 [Image Cards](https://github.com/codesari/image-cards-react)<br> [@LIVE](https://codesari.github.io/image-cards-react/) |<ul><li>React Components</li></ul>|<img src="https://github.com/codesari/image-cards-react/raw/main/Animation.gif" width="300" />
+
+
+
+
+
+
+
+  
+    
+
+    
 
 <h2 align="center"> Javascript Projects </h2>
 
