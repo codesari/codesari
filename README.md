@@ -2,6 +2,7 @@
 
 | Project Repos | Used In The Project | Project Preview |  
 |---|---|---|
+[Contact App](https://github.com/codesari/contact-app)|<ul><li>Firebase</li><li>Register/Register with Google/Login/Logout</li><li>Material UI</li><li>Axios</li><li>React Toastify</li></ul>|<img src="https://github.com/codesari/contact-app/raw/main/contact.gif" width="300" />
 [Movie App](https://github.com/codesari/movie-app)|<ul><li>Firebase</li><li>Register/Register with Google/Login/Logout</li><li>Tailwind CSS</li><li>Axios</li><li>React Toastify</li></ul>|<img src="https://github.com/codesari/movie-app/raw/main/movie.gif" width="300" />
 [Recipe App](https://github.com/codesari/recipe-app)|<ul><li>Axios</li><li>Register/Register with Google/Login/Logout</li><li>Styled-Components</li><li>Responsive</li></ul>|<img src="https://github.com/codesari/recipe-app/raw/main/recipe.gif" width="300" />
 [Router Page](https://github.com/codesari/router-page)|<ul><li>React Router</li><li>React DOM</li><li>React Bootstrap</li></ul>|<img src="https://raw.githubusercontent.com/codesari/router-page/main/router-page.gif" width="300" />
@@ -10,16 +11,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-  
     
 
     
