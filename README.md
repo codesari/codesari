@@ -2,9 +2,15 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h2 align="center">Computer Engineer & Fullstack Developer</h2>
+<h2 align="center">↘ My certificates and their verification ↙</h2>
+
+### ✔ [Frontend Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/10669717561121?ref=email)
+### ✔ [React Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/92540923194243?ref=email)
+### ✔ [Javascript Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/58756603665021?ref=email)
+### ✔ [HTML&CSS Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/25565485044590?ref=email)
 
 
-## [👨‍💻 All of my projects are available at this](https://github.com/codesari?tab=repositories)
+
 
 ## Contact me through 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmtsr81@gmail.com)
@@ -23,7 +29,7 @@
 
 
 
-
+# [👨‍💻 All of my projects are available at this](https://github.com/codesari?tab=repositories)
 <div align="center">
 <h2 align="center"> React Projects </h2>
 
