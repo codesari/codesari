@@ -4,7 +4,7 @@
 <h2 align="center">Computer Engineer & Fullstack Developer</h2>
 <h2 align="center">↘ My certificates and their verification ↙</h2>
 
-### ✔ [Frontend Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/10669717561121?ref=email)
+### ✔ [Front-End Developer Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/10669717561121?ref=email)
 ### ✔ [React Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/92540923194243?ref=email)
 ### ✔ [Javascript Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/58756603665021?ref=email)
 ### ✔ [HTML&CSS Certificate](https://d34lllqo5jm5il.cloudfront.net/en/verify/25565485044590?ref=email)
