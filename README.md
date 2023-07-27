@@ -3,11 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h2 align="center">Computer Engineer & Fullstack Developer</h2>
 
-### ✔ [Front-End Developer Certificate](https://c11n.clarusway.com/en/verify/10669717561121?ref=email)
-### ✔ [React Certificate](https://c11n.clarusway.com/en/verify/92540923194243?ref=email)
-### ✔ [Javascript Certificate](https://c11n.clarusway.com/en/verify/58756603665021?ref=email)
-### ✔ [HTML&CSS Certificate](https://c11n.clarusway.com/en/verify/25565485044590?ref=email)
-
 
 ## Contact me through 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmtsr81@gmail.com)
